@@ -1,5 +1,3 @@
-
-````markdown
 # LoM Summarizer
 
 This is a [Next.js](https://nextjs.org) + FastAPI project that summarizes Letters of Motivation (LoM), extracts keywords, and identifies strengths using AI. The frontend is built with React, TypeScript, TailwindCSS, and Framer Motion, while the backend uses FastAPI and lightweight AI models. PDF generation is included for download.
