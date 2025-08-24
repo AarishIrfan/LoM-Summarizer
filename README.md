@@ -59,7 +59,6 @@ LoM-Summarizer/
 ├─ backend/
 │  ├─ main.py
 │  ├─ ai_integration.py
-│  ├─ requirements.txt
 ├─ frontend/
 │  ├─ app/
 │  │  ├─ page.tsx
@@ -67,11 +66,7 @@ LoM-Summarizer/
 │  │  │  └─ PreviewCard.tsx
 │  ├─ package.json
 │  ├─ tsconfig.json
-├─ README.md
-├─ .gitignore
-```
 
----
 
 ## Features Implemented
 
