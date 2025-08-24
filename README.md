@@ -67,7 +67,7 @@ LoM-Summarizer/
 │  ├─ package.json
 │  ├─ tsconfig.json
 
-
+```
 ## Features Implemented
 
 * Multi-file upload (`.pdf` & `.docx`)
